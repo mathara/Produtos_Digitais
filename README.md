@@ -1,7 +1,7 @@
 # Plataforma de Produtos Digitais
 Análise de Dados focado nos produtos oferecidos por uma plataforma digital
 
-## [Contexto](/in/)
+## [Contexto](in/Thinkmart_Desafio_de_dados.pdf)
 Na Thinkmart, possuímos três principais personas que integram nosso negócio: os produtores, os afiliados e os compradores.
 Neste resolução foram analisados dados referentes a uma amostra de compras feitas na Thinkmart em 2016. 
 Tratam-se de mais de 1,5 milhão registros de compras realizadas em nossa plataforma.
@@ -46,7 +46,14 @@ Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
 
 ## Resultados
 
-![Painel de Campanha](bau/)
+![Apresentação](bau/Thinkmart_CE_video.gif)
+
+- Crescimento médio de afiliados e produtores de 15% e 12%, respectivamente, analisando os dois trimestres. Queda de 22% na criação de novos produtos no trimestre
+- Crescimento médio de afiliados e produtores de 15% e 12%, respectivamente, analisando os dois trimestres. Queda de 22% na criação de novos produtos no trimestre
+- Para aumentarmos a eficiência de marketing recomendo explorarmos os sites: ef2b, 5187, adf0 e 18eb, que representam 37%, em média, das vendas
+- eReaders, Desktop e Smar TV são os aparelhos mais utilizados na hora da compra, devemos focar na usabilidade e experiência neles
+-2% das nossas vendas são de sites de redes sociais. Objetivo: entender qual a fricção que temos nesse tipo de ambiente
+
 
 ### Recomendações
 - Saúde da Thinkmart:
@@ -57,4 +64,4 @@ Os arquivos com os meus resultados se encontram na pasta raiz, para a consulta.
 
 ### Apresentação Executiva
 
-Material de consulta [Apresentação Executiva Final](out/).
+Material de consulta [Apresentação Executiva Final](out/Thinkmart_Case.pdf).
